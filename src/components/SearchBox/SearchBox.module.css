@@ -1,0 +1,15 @@
+.searchContainer {
+  display: flex;
+  flex-direction: column;
+  width: 40vw;
+  padding: 10px;
+}
+
+.title {
+  font-size: 32px;
+}
+
+.input {
+  padding: 10px;
+  font-size: 24px;
+}
